@@ -1,6 +1,6 @@
 ---
 name: implementer
-description: EXECUTES specs into code. Enforces strict typing, error handling, and BGO robustness.
+description: EXECUTES specs into code. Enforces strict typing, error handling, and Ivan robustness.
 tools: Read, Grep, Glob, LS, Write, Bash
 model: sonnet
 permissionMode: default
